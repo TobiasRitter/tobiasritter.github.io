@@ -58092,7 +58092,7 @@ E:function(a,b){var s,r=null,q=F.cV(b,64),p=t.w
 if(b.O(p).f.a.a>1000)p=T.cj(H.a([M.az(r,r,r,r,r,r,r,r,r,150),T.bN(this.Gd(b),1),M.az(r,new G.r9(r),r,r,r,r,r,r,r,150)],t.p),C.p,C.t,C.K)
 else{p=b.O(p).f
 s=F.cV(b,64)
-p=p.a.a>600+3*s?this.Gd(b):this.ZD(b)
+p=p.a.a>600+5*s?this.Gd(b):this.ZD(b)
 p=T.bX(H.a([p,new T.aH(new V.am(0,s,0,0),M.az(r,new G.r9(r),r,r,r,r,r,r,r,150),r)],t.p),C.p,C.t)}return new V.jC(new T.aH(new V.am(q,q,q,q),p,r),!1,!0,r)},
 ZD:function(a){var s=null,r=F.cV(a,64)/2
 return T.bX(H.a([U.fA(!1,L.aV("LinkedIn",s,s,s,s),C.o,s,s,s,new N.Rn(),s),M.az(s,s,s,s,s,r,s,s,s,s),U.fA(!1,L.aV("XING",s,s,s,s),C.o,s,s,s,new N.Ro(),s),M.az(s,s,s,s,s,r,s,s,s,s),U.fA(!1,L.aV("GitHub",s,s,s,s),C.o,s,s,s,new N.Rp(),s),M.az(s,s,s,s,s,r,s,s,s,s),U.fA(!1,L.aV("Docker Hub",s,s,s,s),C.o,s,s,s,new N.Rq(),s)],t.p),C.p,C.bq)},
